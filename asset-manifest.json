@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/osrs-stats/static/css/main.07911c79.css",
+    "main.js": "/osrs-stats/static/js/main.ef615245.js",
+    "static/js/787.044cf3b6.chunk.js": "/osrs-stats/static/js/787.044cf3b6.chunk.js",
+    "index.html": "/osrs-stats/index.html",
+    "main.07911c79.css.map": "/osrs-stats/static/css/main.07911c79.css.map",
+    "main.ef615245.js.map": "/osrs-stats/static/js/main.ef615245.js.map",
+    "787.044cf3b6.chunk.js.map": "/osrs-stats/static/js/787.044cf3b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07911c79.css",
+    "static/js/main.ef615245.js"
+  ]
+}
